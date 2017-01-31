@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello CDO!</string>
+    <string name="slide_1_desc">blah blah blah!</string>
+
+    <string name="slide_2_title">Char</string>
+    <string name="slide_2_desc">lalalalalalalalalalala</string>
+
+    <string name="slide_3_title">LOW</string>
+    <string name="slide_3_desc">lowlowlowlowlwolwolowlw</string>
+
+    <string name="slide_4_title">uhuh</string>
+    <string name="slide_4_desc">aahahahah</string>
+
+</resources>
+
